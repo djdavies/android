@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+		<string name="app_name">HexToColour</string>
+		<string name="hex_col">Hex To Colour</string>
+		<string name="action_settings">Settings</string>
+		<string name="button">Button</string>
+		<string name="hexCol">See, your hex code change the button colour!</string>						
+    
+</resources>
